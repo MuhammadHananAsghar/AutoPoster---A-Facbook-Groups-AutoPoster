@@ -117,4 +117,4 @@ class AutoPoster:
 		return options
 
 
-fb = AutoPoster("https://m.facebook.com/groups/2002264246675285", "Bot is Posting in Groups")
+fb = AutoPoster(XXXXXXXXXXXXXXXXXXXXXXGroup Link, "Bot is Posting in Groups")
